@@ -1,0 +1,10 @@
+d:\student\dokumenty\visual studio 2015\Projects\Wykresy\Wykresy\bin\Debug\Wykresy.exe.config
+d:\student\dokumenty\visual studio 2015\Projects\Wykresy\Wykresy\bin\Debug\Wykresy.exe
+d:\student\dokumenty\visual studio 2015\Projects\Wykresy\Wykresy\bin\Debug\Wykresy.pdb
+d:\student\dokumenty\visual studio 2015\Projects\Wykresy\Wykresy\obj\Debug\Wykresy.Form1.resources
+d:\student\dokumenty\visual studio 2015\Projects\Wykresy\Wykresy\obj\Debug\Wykresy.Properties.Resources.resources
+d:\student\dokumenty\visual studio 2015\Projects\Wykresy\Wykresy\obj\Debug\Wykresy.csproj.GenerateResource.Cache
+d:\student\dokumenty\visual studio 2015\Projects\Wykresy\Wykresy\obj\Debug\Wykresy.exe
+d:\student\dokumenty\visual studio 2015\Projects\Wykresy\Wykresy\obj\Debug\Wykresy.pdb
+d:\Student\dokumenty\visual studio 2015\Projects\Wykresy\Wykresy\obj\Debug\Wykresy.UserControlFunction.resources
+d:\Student\dokumenty\visual studio 2015\Projects\Wykresy\Wykresy\obj\Debug\Wykresy.csprojResolveAssemblyReference.cache
